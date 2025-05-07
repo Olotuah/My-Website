@@ -5,17 +5,17 @@ export default function Services() {
     {
       title: "Custom Web Application",
       description: "Development of modern single-page applications with React (frontend) and Node.js (backend).",
-      link: "https://www.fiverr.com/henry/profile"  // placeholder link
+      link: "https://www.fiverr.com/s/m5N2ax8"  // placeholder link
     },
     {
       title: "Responsive Front-End Design",
       description: "Implementing responsive designs with Tailwind CSS, ensuring pixel-perfect conversions from Figma/PSD.",
-      link: "https://www.fiverr.com/henry/profile"
+      link: "https://www.fiverr.com/s/XLxv902"
     },
     {
       title: "Website Performance Optimization",
       description: "Improving load times and SEO by optimizing React apps and Node.js APIs.",
-      link: "https://www.fiverr.com/henry/profile"
+      link: "https://www.fiverr.com/s/rENzmxx"
     },
   ];
 

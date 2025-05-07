@@ -20,7 +20,7 @@ export default function Navbar() {
     <header className="w-full fixed top-0 left-0 bg-white shadow-md z-50">
       <nav className="container mx-auto flex items-center justify-between p-4">
         {/* Logo/Name */}
-        <a href="#home" className="text-2xl font-bold">Henry</a>
+        <a href="#home" className="text-2xl font-bold">Nelson</a>
 
         {/* Desktop Links */}
         <ul className="hidden md:flex space-x-6">

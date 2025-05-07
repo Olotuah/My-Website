@@ -37,9 +37,9 @@ export default function Contact() {
         <div className="mt-10 text-center text-gray-700">
           <p>You can also find me on:</p>
           <p className="mt-2">
-            <a href="mailto:henry@example.com" className="text-blue-600 hover:underline">Email</a> &middot; 
-            <a href="https://www.linkedin.com/in/henry" className="text-blue-600 hover:underline ml-2">LinkedIn</a> &middot;
-            <a href="https://fiverr.com/henry" className="text-blue-600 hover:underline ml-2">Fiverr</a>
+            <a href="gbengaolotuah@gmail.com" className="text-blue-600 hover:underline">Email</a> &middot; 
+            <a href="https://www.linkedin.com/in/olotuah-gbenga-a978ab12b/" className="text-blue-600 hover:underline ml-2">LinkedIn</a> &middot;
+            <a href="https://fiverr.com/nelson_tuah" className="text-blue-600 hover:underline ml-2">Fiverr</a>
           </p>
         </div>
       </div>

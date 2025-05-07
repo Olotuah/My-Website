@@ -8,36 +8,36 @@ export default function Projects() {
     {
       name: "Portfolio Website",
       description: "Personal portfolio built with React and Tailwind CSS.",
-      url: "https://github.com/henry/portfolio-website"
+      url: "https://my-website-qu95.vercel.app/"
     },
     {
-      name: "E-commerce Dashboard",
-      description: "Admin dashboard for an e-commerce platform (React, Node.js, MongoDB).",
-      url: "https://github.com/henry/ecommerce-dashboard"
+      name: "Daily Sales Book",
+      description: "The Daily Sales Book is a user-friendly web app designed to help small business owners, freelancers, or anyone managing personal finances easily track their sales and expenses. (React, Node.js, TailwinsCSS).",
+      url: "https://daily-sales-book.vercel.app/"
     },
     {
-      name: "Real-time Chat App",
-      description: "Realtime chat application using Node.js, Socket.io, and React.",
-      url: "https://github.com/henry/chat-app"
+      name: "User List App",
+      description: "The User List App is a responsive React-based web application designed to fetch and display a list of users from the JSONPlaceholder API. The app allows users to view basic details of each user and navigate to a detailed profile page for more information. Node.js and React.",
+      url: "https://olotuah.github.io/User-List-App/"
     },
     {
-      name: "Weather Forecast App",
-      description: "Weather app that consumes a public API (React front-end).",
-      url: "https://github.com/henry/weather-app"
+      name: "Face Recognition Brain – React App with Clarifai API",
+      description: "This is a React-based face recognition application that leverages the Clarifai AI API to detect and analyze human faces in images.",
+      url: "https://face-recognition-brain-gamma.vercel.app/"
     },
     {
-      name: "Task Manager API",
-      description: "RESTful API for a task management app (Node.js, Express).",
-      url: "https://github.com/henry/task-manager-api"
+      name: "Real Estate Data Website",
+      description: "This is a modern real estate data website built with React.js, designed to display property listings, pricing trends, and neighborhood analytics in a dynamic and user-friendly interface. (Node.js, React.Js, TailwindCSS).",
+      url: "https://project-klooft-xi84.vercel.app/"
     },
     {
-      name: "Blog Platform",
-      description: "Simple blogging platform with user authentication (MERN stack).",
-      url: "https://github.com/henry/blog-platform"
+      name: "Web Testing States for NFT App",
+      description: "Displays NFTs owned by the connected wallet using on-chain metadata.",
+      url: "https://olotuah.github.io/React-Project/"
     },
     {
-      name: "Social Media Feed",
-      description: "Prototype social feed front-end built with React and Redux.",
+      name: "Background Generator App",
+      description: "A clean and interactive background generator application built using React.js, allowing users to create, customize, and copy CSS gradient backgrounds in real time.",
       url: "https://github.com/henry/social-feed"
     }
   ];

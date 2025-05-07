@@ -2,7 +2,7 @@
 
 This is my personal developer portfolio, built with **React** and **Tailwind CSS**, designed to showcase my skills, projects, and services offered on Fiverr.
 
-👉 **Live Demo:** [Visit My Website](https://your-vercel-link.vercel.app)
+👉 **Live Demo:** [Visit My Website](https://my-website-qu95.vercel.app/)
 
 ---
 
@@ -54,7 +54,7 @@ Then visit [http://localhost:5173](http://localhost:5173) in your browser.
 
 - 📧 Email: gbengaolotuah@gmail.com
 - 💼 Fiverr: [https://fiverr.com/nelson_tuah](https://fiverr.com/nelson_tuah)
-- 👔 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 👔 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/olotuah-gbenga-a978ab12b/)
 
 ---
 

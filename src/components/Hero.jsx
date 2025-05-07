@@ -5,7 +5,7 @@ export default function Hero() {
     <section id="home" className="min-h-screen flex items-center justify-center bg-gray-50">
       <div className="text-center p-4">
         <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-4">
-          Henry 
+          Nelson 
         </h1>
         <h2 className="text-xl md:text-2xl text-gray-700 mb-6">
           Full-Stack Developer & React Specialist
@@ -18,7 +18,7 @@ export default function Hero() {
           <a href="#contact" className="px-6 py-3 bg-blue-600 text-white rounded shadow hover:bg-blue-700">
             Hire Me
           </a>
-          <a href="/assets/resume.pdf" download className="px-6 py-3 border border-blue-600 text-blue-600 rounded hover:bg-blue-600 hover:text-white">
+          <a href="/resume.pdf" download className="px-6 py-3 border border-blue-600 text-blue-600 rounded hover:bg-blue-600 hover:text-white">
             Download Résumé
           </a>
         </div>
