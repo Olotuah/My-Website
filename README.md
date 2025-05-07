@@ -1,4 +1,4 @@
-# Henry – Full-Stack Developer Portfolio 🚀
+# Nelson – Full-Stack Developer Portfolio 🚀
 
 This is my personal developer portfolio, built with **React** and **Tailwind CSS**, designed to showcase my skills, projects, and services offered on Fiverr.
 
@@ -8,7 +8,7 @@ This is my personal developer portfolio, built with **React** and **Tailwind CSS
 
 ## 💼 About Me
 
-Hi, I’m **Henry**, a passionate full-stack web developer focused on building fast, modern, and responsive web applications.  
+Hi, I’m **Nelson**, a passionate full-stack web developer focused on building fast, modern, and responsive web applications.  
 My stack includes **React**, **Tailwind CSS**, **JavaScript**, and basic experience with **Node.js** on the backend.
 
 I specialize in translating beautiful UI designs into fully functional websites and dashboards — with pixel-perfect attention to detail.
@@ -52,7 +52,7 @@ Then visit [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 📫 Contact Me
 
-- 📧 Email: your@email.com
+- 📧 Email: gbengaolotuah@gmail.com
 - 💼 Fiverr: [https://fiverr.com/nelson_tuah](https://fiverr.com/nelson_tuah)
 - 👔 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
